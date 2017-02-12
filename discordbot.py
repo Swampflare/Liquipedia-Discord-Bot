@@ -57,6 +57,7 @@ botroles = {
 	'ssb' : 'Smash',
 	'ssbm' : 'Smash',
 	'sm4sh' : 'Smash',
+	'smash4': 'Smash',
 	'ssb4' : 'Smash',
 	'smash64' : 'Smash',
 	'projectm' : 'Smash',
